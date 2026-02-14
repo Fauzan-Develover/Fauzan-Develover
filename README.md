@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halo semua! 👋
 
-<!--
-**Fauzan-Develover/Fauzan-Develover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Yusup Ahmad Fauzan**.
 
-Here are some ideas to get you started:
+Saya seorang **AI & Full-Stack Developer** yang saat ini sedang menempuh studi di **Universitas Sebelas April (UNSAP)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya bertanggung jawab dalam pembuatan dan pengembangan sistem di **The Innovation Labs**
+
+### 🏆 Prestasi & Program
+* **Student Activate Rakamin**: Terpilih sebagai Student Activate di magang virtual yang di selengarakan oleh rakamin
+* **Google Student Ambasador**: Terpilih sebagai salah satu dari **800 mahasiswa** menjadi Google Student Ambasador dari total **12.000+ pendaftar di seluruh indonesia**
+* **Peserta Terpilih Coding Camp 2026**: Terpilih menjadi salah satu dari **3000 peserta intensif** dari **puluhan ribu pendaftar di seluruh indonesia**
+
+Jika kamu tertarik untuk berkolaborasi atau sekadar berkenalan, silakan ikuti akun [GitHub](https://github.com/Fauzan-Develover) saya ya!
